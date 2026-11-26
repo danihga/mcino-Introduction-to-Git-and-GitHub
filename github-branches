@@ -1,0 +1,4 @@
+theia@theia-danidhg00:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  bug-fix-revert 5c14f51 [origin/bug-fix-revert] Revert "Revert "Revert "Fix copyright year in README"""
+* bug-fix-typo   03e33f0 [origin/bug-fix-typo: ahead 1] Revert "Fix copyright year in README"
+  main           daf0ac7 [origin/main: ahead 3] Revert "Revert "Fix copyright year in README""
